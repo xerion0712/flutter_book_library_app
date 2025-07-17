@@ -1,6 +1,4 @@
-# eBook App - Flutter UI
-
-## [Watch it on YouTube](https://youtu.be/ACdraZRANaU)
+# Flutter UI
 
 <!-- **Packages we are using:**
 
@@ -12,10 +10,7 @@
 
 **UI Credit**
 
-- Design by: Peeely [link](https://www.uplabs.com/posts/free-book-reading-app)
+=This is Book (reading book) app design by flutter, at home page it shows you some recommended books, also the book of the day. At the bottom you gonna find your most recent book that you read. On details page book info with it's chapters. note that this is UI only.
 
-Flamingo is an eBook (reading book) app design by flutter, at home page it shows you some recommended books, also the book of the day. At the bottom you gonna find your most recent book that you read. On details page book info with it's chapters. note that this is UI only.
+###Final UI
 
-### eBook App Final UI
-
-![App UI](/attachment.png)
